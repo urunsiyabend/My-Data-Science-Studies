@@ -1,9 +1,9 @@
-import math
 from central_tendency_funcs import *
+import math
 
 
 def get_range(values):
-    return max(values)- min(values)
+    return max(values) - min(values)
 
 
 def standard_deviation(values):
