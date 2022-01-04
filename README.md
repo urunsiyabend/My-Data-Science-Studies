@@ -6,7 +6,7 @@ This github repository contains my data science notes that are taken while I was
 
 ![](https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg)
 
-For now, these studies includes 3 different parts of data science and a section about aplications that I hope you will be able to understand how data science is used in business. This repository will be updated day by day and I will try to keep this descriptions updated but if you realize missing parts on this file please feel free to create pull requests. And please excuse my typos as I am currently working to improve my language skills.
+For now, these studies includes 4 different parts of data science and a section about aplications that I hope you will be able to understand how data science is used in business. This repository will be updated day by day and I will try to keep this descriptions updated but if you realize missing parts on this file please feel free to create pull requests. And please excuse my typos as I am currently working to improve my language skills.
 
 # **Sections**
 
