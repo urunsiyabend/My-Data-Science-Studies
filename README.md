@@ -48,3 +48,9 @@ For now, these studies includes 3 different parts of data science and a section 
 <br>
 
 ## 3. **[Statistics for Data Science](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Statistics%20for%20Data%20Science)**
+- Law of Large Numbers
+- Sampling Distributions
+- Hypotheses
+- Hypothesis Types
+- Hypothesis Tests
+- Variant and Correlation Analysis
