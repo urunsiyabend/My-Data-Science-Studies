@@ -59,3 +59,5 @@ For now, these studies includes 4 different parts of data science and a section 
 - Outlier Analysis
 - Multivariate Outlier Analysis
 - Missing Value Analysis
+- Variable Standardization
+- Variable Transformation
