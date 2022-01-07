@@ -55,9 +55,19 @@ For now, these studies includes 4 different parts of data science and a section 
 - Hypothesis Tests
 - Variant and Correlation Analysis
 
+<br>
+
 ## 4. **[Data Preprocessing](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Data%20Preprocessing)**
 - Outlier Analysis
 - Multivariate Outlier Analysis
 - Missing Value Analysis
 - Variable Standardization
 - Variable Transformation
+
+<br>
+
+## 5. **[Machine Learning](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Machine%20Learning)**
+- **Introduction to Machine Learning**
+  - Terminology
+  - Model Validation Methods
+  - Model Success Evaluation
