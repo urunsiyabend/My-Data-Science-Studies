@@ -77,3 +77,4 @@ For now, these studies includes 5 different parts of data science and a section 
   - Simple Linear Regression
   - Residuals
   - Multiple Linear Regression
+  - Principal Component Regression
