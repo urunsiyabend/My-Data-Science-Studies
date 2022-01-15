@@ -71,3 +71,14 @@ For now, these studies includes 4 different parts of data science and a section 
   - Terminology
   - Model Validation Methods
   - Model Success Evaluation
+  - Bias Variance Tradeoff
+- **Linear Regression and Its Cousins**
+  - Simple Linear Regression
+    - Theory
+    - Model
+    - Prediction
+  - Residuals
+  - Multiple Linear Regression
+    - Theory
+    - Model
+    - Prediction
