@@ -48,6 +48,9 @@ For now, these studies includes 5 different parts of data science and a section 
 <br>
 
 ## 3. **[Statistics for Data Science](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Statistics%20for%20Data%20Science)**
+
+<br>
+
 - Law of Large Numbers
 - Sampling Distributions
 - Hypothesis Types
@@ -57,6 +60,8 @@ For now, these studies includes 5 different parts of data science and a section 
 <br>
 
 ## 4. **[Data Preprocessing](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Data%20Preprocessing)**
+<br>
+
 - Outlier Analysis
 - Multivariate Outlier Analysis
 - Missing Value Analysis
@@ -66,12 +71,20 @@ For now, these studies includes 5 different parts of data science and a section 
 <br>
 
 ## 5. **[Machine Learning](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Machine%20Learning)**
+
+<br>
+
 - **[Introduction to Machine Learning](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Machine%20Learning/01%20-%20Introduction%20to%20Machine%20Learning)**
+
   - Terminology
   - Model Validation Methods
   - Model Success Evaluation
   - Bias Variance Tradeoff
+
+<br>
+
 - **[Linear Regression and Its Cousins](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Machine%20Learning/02%20-%20Linear%20Regression%20and%20Its%20Cousins)**
+
   - Simple Linear Regression
   - Residuals
   - Multiple Linear Regression
