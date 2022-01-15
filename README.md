@@ -11,7 +11,7 @@ For now, these studies includes 5 different parts of data science and a section 
 # **Sections**
 
 ## **1. [Data Manipulation](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Data%20Manipulation)**
-- ### [Numpy](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Data%20Manipulation/NumPy)
+- ### [Numpy](https://numpy.org/install/)
 
     ![](https://miro.medium.com/max/962/1*z9cCJjs9lD_9zdSDUUJ9nw.png)
     
@@ -19,7 +19,7 @@ For now, these studies includes 5 different parts of data science and a section 
     pip install numpy
     import numpy as np
     ```
-- ### [Pandas](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Data%20Manipulation/Pandas)
+- ### [Pandas](https://pandas.pydata.org/getting_started.html)
     ![](https://yavuz.github.io/assets/img/numpy_ve_pandas3.png)
     ```python
     pip install pandas
@@ -28,7 +28,7 @@ For now, these studies includes 5 different parts of data science and a section 
 <br>
 
 ## 2. **[Data Visualization](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Data%20Manipulation/Pandas)**
-- ### Matplotlib
+- ### [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
     
     ![](https://matplotlib.org/stable/_static/logo2.svg)
 
@@ -36,7 +36,7 @@ For now, these studies includes 5 different parts of data science and a section 
     pip install matplotlib
     import matplotlib.pyplot as plt
     ```
-- ### Seaborn
+- ### [Seaborn](https://seaborn.pydata.org/)
     
     ![](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
 
@@ -50,7 +50,6 @@ For now, these studies includes 5 different parts of data science and a section 
 ## 3. **[Statistics for Data Science](https://github.com/urunsiyabend/My-Data-Science-Studies/tree/master/Statistics%20for%20Data%20Science)**
 - Law of Large Numbers
 - Sampling Distributions
-- Hypotheses
 - Hypothesis Types
 - Hypothesis Tests
 - Variant and Correlation Analysis
